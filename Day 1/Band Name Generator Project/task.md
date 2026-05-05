@@ -1,3 +1,4 @@
+#day one project
 a = input("What city did you grow up in?")
 
 b = input("What is the name of your pet?")
